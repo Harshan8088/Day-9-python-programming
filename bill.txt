@@ -1,0 +1,5 @@
+SHOPPING BILL
+customer:rahul
+product:mouse
+quentity:2
+Total:Rs.1800.000000
